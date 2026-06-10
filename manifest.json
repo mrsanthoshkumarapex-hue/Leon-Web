@@ -1,0 +1,16 @@
+{
+"name":"Leon Web",
+"short_name":"Leon",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"#050816",
+"theme_color":"#2563eb",
+"description":"Official App Store Of Leon Web",
+"icons":[
+{
+"src":"images/icon.png",
+"sizes":"192x192",
+"type":"image/png"
+}
+]
+}
